@@ -1,4 +1,4 @@
-# 3D_Sketches
+# 3D Sketches
 Some 3D sketches like the Ethereum logo STL 3D printable file: https://github.com/makevoid/3D_Sketches/blob/master/ethereum/ethereum.stl  
 
 <a href="https://github.com/makevoid/3D_Sketches/blob/master/ethereum/ethereum.stl">
